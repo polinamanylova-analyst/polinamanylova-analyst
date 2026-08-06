@@ -22,7 +22,7 @@
 | Проект | Описание |
 |--------|----------|
 | [SQL Practice](https://github.com/polinamanylova-analyst/sql-practice) | SQL-задачи и оконные функции |
-| [Python and product tasks](https://github.com/polinamanylova-analyst/python-pruduct-analysis/tree/main) | pandas, numpy, matplotlib, ICE, cohort analysis, RFM-segmentation, PMF|
+| [Python and product tasks](https://github.com/polinamanylova-analyst/python-pruduct-analysis/tree/main) | pandas, numpy, matplotlib, ICE, cohort analysis, RFM-segmentation, PMF, AB-test |
 
 <!--
 **polinamanylova-analyst/polinamanylova-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
